@@ -1,0 +1,99 @@
+p{
+    margin: auto;
+}
+#login_p{
+    position: relative;
+    left: 40%;
+    font-size: 40px;
+}
+#login_p2,#login_p3{
+    position: relative;
+    left: 20%;
+}
+header, #header_id{
+
+    background-color: black;
+    position: relative;
+    margin-top: -27px;
+    left: 0;
+    right: 0;
+
+}
+h1{
+    position: relative;
+    height: 70px;
+    color: white;
+
+}
+#information{
+    position: relative;
+    left: 5%;
+    margin: 0 auto;
+    font-size: 40px;
+    color: black;
+}
+#info_id{
+    position: relative;
+    background-color: grey;
+    display: block;
+    margin: 0 auto;
+    margin-top: 40px;
+    box-shadow: 0 0 6px 4px black;
+    border-radius: 25px;
+    height: 300px;
+    width: 50%;
+
+}
+#task_bar_id{
+    position: absolute;
+    left: 80%;
+    margin-top: -60px;
+}
+#login_button{
+    position: relative;
+    display: block;
+    margin: 0 auto;
+    margin-top: 60px;
+    border-radius: 16px;
+    font-size: medium;
+    background-color: grey;
+    border-color: grey;
+    box-shadow: 0 0 6px 3px grey;
+}
+#login_details{
+    background-color: gray;
+    box-shadow: 0 0 40px 20px gray;
+    border-radius: 15px 50px 30px;
+    position: relative;
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 80px;
+    height: 250px;
+    transition: width 2s;
+
+}
+#login_details:hover{
+    width: 350px;
+}
+
+#name,#password,#button{
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+
+
+}
+#footer_id{
+    position: relative;
+    background-color: darkgray;
+   display: block;
+    margin-top: 18%;
+    height: 60px;
+    box-shadow: 0 0 4px 2px black;
+}
+#footer_div1,#footer_div2{
+    display: inline-block;
+    margin-left: 10%;
+
+}
